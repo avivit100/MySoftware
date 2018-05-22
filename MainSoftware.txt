@@ -3,8 +3,9 @@ public class MainClass {
     public static void main (String args[]){
 	
     }
-    private void welcome(){
-	System.out.println("New Screen");
+    private void click(){
+        System.out.println("click");
+
     }
 }
 
