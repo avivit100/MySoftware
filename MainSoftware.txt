@@ -3,9 +3,12 @@ public class MainClass {
     public static void main (String args[]){
 	
     }
-
     private void click(){
         System.out.println("click");
+    }
+    
+    private void welcome(){
+	    System.out.println("New Screen");
     }
 }
 
