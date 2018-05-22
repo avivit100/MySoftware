@@ -4,9 +4,5 @@ public class MainClass {
 	
     }
 
-    //New Button
-    private void click(){
-        System.out.println("click");
-    }
 }
 
